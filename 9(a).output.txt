@@ -1,0 +1,6 @@
+BorderDemo : NORTH across the top, SOUTH across the bottom,
+WEST and EAST at the sides, CENTER fills the middle.
+Enlarge the window - only CENTER grows.
+GridDemo : twelve equal keys in four rows of three.
+FlowDemo : five buttons in a row; narrow the window and
+they wrap onto a 
