@@ -1,0 +1,7 @@
+Output (the order may differ every run — that is normal)
+Thread A : 1
+Thread B : 1
+Thread A : 2
+Thread B : 2
+Thread B : 3
+Thread A : 3
