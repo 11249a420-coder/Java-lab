@@ -1,0 +1,4 @@
+Output
+Name : Meena
+Salary : 75000.0
+Dept : CSE
