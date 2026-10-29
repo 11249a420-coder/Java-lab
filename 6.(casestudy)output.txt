@@ -1,0 +1,4 @@
+Dispensed Rs. 2000.0, balance Rs. 3000.0
+Refused: 350.0 is not a multiple of 100
+Dispensed Rs. 3000.0, balance Rs. 0.0
+Refused: Balance is only 0.0
