@@ -1,0 +1,4 @@
+Manager     70000.00
+Engineer    48000.00
+Intern      12000.00
+Driver      
