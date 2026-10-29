@@ -1,0 +1,8 @@
+Aravind PASS
+Divya PASS
+Karthik FAIL
+Passed : 2
+Failed : 1
+Average : 71.33
+Topper : Divya
+Highest Marks : 90
